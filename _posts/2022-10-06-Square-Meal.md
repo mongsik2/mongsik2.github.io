@@ -2,21 +2,22 @@
 layout: post
 title:  "Square Meal(든든한 한끼)"
 date:   2022-10-06
-excerpt: "Minimal, one column Jekyll theme for your blog."
+excerpt: "SpringBoot를 활용하여 식품 추천 웹페이지 구축"
 project: true
 tag:
 - jekyll 
-- moon
-- blog
-- about
-- theme
+- project
+- docker
+- ai
+- spring
+- flask
 comments: true
 ---
 
 # 든든한 한끼
 ### 프로젝트 계획 이유
-> 집에 남아 있는 음식 재료로 만들 수 있는 음식이나 먹고 싶은 음식의 레시피를 검색할 수 있는 페이지를 제공하고자 한다.  
-> 또한, 음식은 개인 취향에 따라 선호도가 다르므로 이용자의 특성을 분류하여 그에 따른 추천음식을 제공한다.
+- 집에 남아 있는 음식 재료로 만들 수 있는 음식이나 먹고 싶은 음식의 레시피를 검색할 수 있는 페이지를 제공하고자 한다.  
+- 또한, 음식은 개인 취향에 따라 선호도가 다르므로 이용자의 특성을 분류하여 그에 따른 추천음식을 제공한다.
 ------------------------
 ### 사용
 - JAVA 11
@@ -24,7 +25,7 @@ comments: true
 - MariaDB
 - Bootstrap5
 - Chart.js
-------------------------
+
 ## 페이지 소개
 ### 1. 메인
 - 웹 소개
