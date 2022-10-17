@@ -105,22 +105,22 @@ comments: true
 -----------------
 ## 참고
 ### application.yml
-    debug: true
+      debug: true
 
-    server:
-      port: 8080
-      servlet:
-        context-path: /
-        encoding:
-          charset: UTF-8
-          enabled: true
-          force: true
-
-    spring:
-      mvc:
-        hiddenmethod:
-          filter:
+      server:
+        port: 8080
+        servlet:
+          context-path: /
+          encoding:
+            charset: UTF-8
             enabled: true
+            force: true
+
+      spring:
+        mvc:
+          hiddenmethod:
+            filter:
+              enabled: true
 
       datasource:
         driver-class-name: org.mariadb.jdbc.Driver
