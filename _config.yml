@@ -1,6 +1,6 @@
 # Site
 title:              mongsik2
-bio:                '느'
+bio:                'eastart94@gmail.com'
 description:        "느리더라도 성실히 나아가는 사람이 되자"
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ disqus_shortname:   taylantatli
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email: eastart94@gmail.com
 #twitter:            username
 #facebook:           username
 github-url:         mongsik2
